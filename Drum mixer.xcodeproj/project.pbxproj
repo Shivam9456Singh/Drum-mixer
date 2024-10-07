@@ -1,0 +1,444 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		403CD13F2CB4188A00B44678 /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = 403CD13B2CB4188A00B44678 /* F.wav */; };
+		403CD1402CB4188A00B44678 /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = 403CD1382CB4188A00B44678 /* B.wav */; };
+		403CD1412CB4188A00B44678 /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = 403CD13A2CB4188A00B44678 /* D.wav */; };
+		403CD1422CB4188A00B44678 /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = 403CD13C2CB4188A00B44678 /* G.wav */; };
+		403CD1432CB4188A00B44678 /* H.wav in Resources */ = {isa = PBXBuildFile; fileRef = 403CD13D2CB4188A00B44678 /* H.wav */; };
+		403CD1442CB4188A00B44678 /* L.wav in Resources */ = {isa = PBXBuildFile; fileRef = 403CD13E2CB4188A00B44678 /* L.wav */; };
+		403CD1452CB4188A00B44678 /* C.wav in Resources */ = {isa = PBXBuildFile; fileRef = 403CD1392CB4188A00B44678 /* C.wav */; };
+		403CD1462CB4188A00B44678 /* A.wav in Resources */ = {isa = PBXBuildFile; fileRef = 403CD1372CB4188A00B44678 /* A.wav */; };
+		40F785372C9B4C5F0081FD46 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F785362C9B4C5F0081FD46 /* AppDelegate.swift */; };
+		40F785392C9B4C5F0081FD46 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F785382C9B4C5F0081FD46 /* SceneDelegate.swift */; };
+		40F7853B2C9B4C5F0081FD46 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F7853A2C9B4C5F0081FD46 /* ViewController.swift */; };
+		40F7853E2C9B4C5F0081FD46 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 40F7853D2C9B4C5F0081FD46 /* Base */; };
+		40F785402C9B4C610081FD46 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40F7853F2C9B4C610081FD46 /* Assets.xcassets */; };
+		40F785432C9B4C610081FD46 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 40F785422C9B4C610081FD46 /* Base */; };
+		40F785572C9B4F570081FD46 /* E.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 40F7854B2C9B4F570081FD46 /* E.mp3 */; };
+		40F785582C9B4F570081FD46 /* H.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 40F7854C2C9B4F570081FD46 /* H.mp3 */; };
+		40F7855A2C9B4F570081FD46 /* G.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 40F7854E2C9B4F570081FD46 /* G.mp3 */; };
+		40F7855B2C9B4F570081FD46 /* J.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 40F7854F2C9B4F570081FD46 /* J.mp3 */; };
+		40F7855F2C9B4F570081FD46 /* K.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 40F785532C9B4F570081FD46 /* K.mp3 */; };
+		40F785602C9B4F570081FD46 /* I.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 40F785542C9B4F570081FD46 /* I.mp3 */; };
+		40F785662C9B5B090081FD46 /* P.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 40F785622C9B5B090081FD46 /* P.mp3 */; };
+		40F785672C9B5B090081FD46 /* N.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 40F785632C9B5B090081FD46 /* N.mp3 */; };
+		40F785682C9B5B090081FD46 /* M.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 40F785642C9B5B090081FD46 /* M.mp3 */; };
+		40F785692C9B5B090081FD46 /* O.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 40F785652C9B5B090081FD46 /* O.mp3 */; };
+		40F7856B2C9B5B4D0081FD46 /* Q.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 40F7856A2C9B5B4D0081FD46 /* Q.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		403CD1372CB4188A00B44678 /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
+		403CD1382CB4188A00B44678 /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
+		403CD1392CB4188A00B44678 /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
+		403CD13A2CB4188A00B44678 /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
+		403CD13B2CB4188A00B44678 /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
+		403CD13C2CB4188A00B44678 /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
+		403CD13D2CB4188A00B44678 /* H.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = H.wav; sourceTree = "<group>"; };
+		403CD13E2CB4188A00B44678 /* L.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = L.wav; sourceTree = "<group>"; };
+		40F785332C9B4C5F0081FD46 /* Drum mixer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Drum mixer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		40F785362C9B4C5F0081FD46 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		40F785382C9B4C5F0081FD46 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		40F7853A2C9B4C5F0081FD46 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		40F7853D2C9B4C5F0081FD46 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		40F7853F2C9B4C610081FD46 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		40F785422C9B4C610081FD46 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		40F785442C9B4C610081FD46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40F7854B2C9B4F570081FD46 /* E.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = E.mp3; sourceTree = "<group>"; };
+		40F7854C2C9B4F570081FD46 /* H.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = H.mp3; sourceTree = "<group>"; };
+		40F7854E2C9B4F570081FD46 /* G.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = G.mp3; sourceTree = "<group>"; };
+		40F7854F2C9B4F570081FD46 /* J.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = J.mp3; sourceTree = "<group>"; };
+		40F785532C9B4F570081FD46 /* K.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = K.mp3; sourceTree = "<group>"; };
+		40F785542C9B4F570081FD46 /* I.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = I.mp3; sourceTree = "<group>"; };
+		40F785622C9B5B090081FD46 /* P.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = P.mp3; sourceTree = "<group>"; };
+		40F785632C9B5B090081FD46 /* N.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = N.mp3; sourceTree = "<group>"; };
+		40F785642C9B5B090081FD46 /* M.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = M.mp3; sourceTree = "<group>"; };
+		40F785652C9B5B090081FD46 /* O.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = O.mp3; sourceTree = "<group>"; };
+		40F7856A2C9B5B4D0081FD46 /* Q.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Q.mp3; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		40F785302C9B4C5F0081FD46 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		40F7852A2C9B4C5F0081FD46 = {
+			isa = PBXGroup;
+			children = (
+				40F785352C9B4C5F0081FD46 /* Drum mixer */,
+				40F785342C9B4C5F0081FD46 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		40F785342C9B4C5F0081FD46 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				40F785332C9B4C5F0081FD46 /* Drum mixer.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		40F785352C9B4C5F0081FD46 /* Drum mixer */ = {
+			isa = PBXGroup;
+			children = (
+				40F785362C9B4C5F0081FD46 /* AppDelegate.swift */,
+				40F785382C9B4C5F0081FD46 /* SceneDelegate.swift */,
+				40F7853C2C9B4C5F0081FD46 /* Main.storyboard */,
+				40F7853F2C9B4C610081FD46 /* Assets.xcassets */,
+				40F785412C9B4C610081FD46 /* LaunchScreen.storyboard */,
+				40F785442C9B4C610081FD46 /* Info.plist */,
+				40F7853A2C9B4C5F0081FD46 /* ViewController.swift */,
+				40F7854B2C9B4F570081FD46 /* E.mp3 */,
+				40F7854E2C9B4F570081FD46 /* G.mp3 */,
+				40F7854C2C9B4F570081FD46 /* H.mp3 */,
+				40F785542C9B4F570081FD46 /* I.mp3 */,
+				40F7854F2C9B4F570081FD46 /* J.mp3 */,
+				40F785532C9B4F570081FD46 /* K.mp3 */,
+				40F785642C9B5B090081FD46 /* M.mp3 */,
+				40F785632C9B5B090081FD46 /* N.mp3 */,
+				40F785652C9B5B090081FD46 /* O.mp3 */,
+				40F785622C9B5B090081FD46 /* P.mp3 */,
+				40F7856A2C9B5B4D0081FD46 /* Q.mp3 */,
+				403CD1372CB4188A00B44678 /* A.wav */,
+				403CD1382CB4188A00B44678 /* B.wav */,
+				403CD1392CB4188A00B44678 /* C.wav */,
+				403CD13A2CB4188A00B44678 /* D.wav */,
+				403CD13B2CB4188A00B44678 /* F.wav */,
+				403CD13C2CB4188A00B44678 /* G.wav */,
+				403CD13D2CB4188A00B44678 /* H.wav */,
+				403CD13E2CB4188A00B44678 /* L.wav */,
+			);
+			path = "Drum mixer";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		40F785322C9B4C5F0081FD46 /* Drum mixer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 40F785472C9B4C610081FD46 /* Build configuration list for PBXNativeTarget "Drum mixer" */;
+			buildPhases = (
+				40F7852F2C9B4C5F0081FD46 /* Sources */,
+				40F785302C9B4C5F0081FD46 /* Frameworks */,
+				40F785312C9B4C5F0081FD46 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Drum mixer";
+			productName = "Drum mixer";
+			productReference = 40F785332C9B4C5F0081FD46 /* Drum mixer.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		40F7852B2C9B4C5F0081FD46 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1540;
+				LastUpgradeCheck = 1540;
+				TargetAttributes = {
+					40F785322C9B4C5F0081FD46 = {
+						CreatedOnToolsVersion = 15.4;
+					};
+				};
+			};
+			buildConfigurationList = 40F7852E2C9B4C5F0081FD46 /* Build configuration list for PBXProject "Drum mixer" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 40F7852A2C9B4C5F0081FD46;
+			productRefGroup = 40F785342C9B4C5F0081FD46 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				40F785322C9B4C5F0081FD46 /* Drum mixer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		40F785312C9B4C5F0081FD46 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				40F785582C9B4F570081FD46 /* H.mp3 in Resources */,
+				40F785402C9B4C610081FD46 /* Assets.xcassets in Resources */,
+				40F785432C9B4C610081FD46 /* Base in Resources */,
+				40F785572C9B4F570081FD46 /* E.mp3 in Resources */,
+				40F785692C9B5B090081FD46 /* O.mp3 in Resources */,
+				40F785662C9B5B090081FD46 /* P.mp3 in Resources */,
+				40F7853E2C9B4C5F0081FD46 /* Base in Resources */,
+				40F785672C9B5B090081FD46 /* N.mp3 in Resources */,
+				403CD13F2CB4188A00B44678 /* F.wav in Resources */,
+				403CD1402CB4188A00B44678 /* B.wav in Resources */,
+				403CD1412CB4188A00B44678 /* D.wav in Resources */,
+				403CD1422CB4188A00B44678 /* G.wav in Resources */,
+				403CD1432CB4188A00B44678 /* H.wav in Resources */,
+				403CD1442CB4188A00B44678 /* L.wav in Resources */,
+				403CD1452CB4188A00B44678 /* C.wav in Resources */,
+				403CD1462CB4188A00B44678 /* A.wav in Resources */,
+				40F7855F2C9B4F570081FD46 /* K.mp3 in Resources */,
+				40F785682C9B5B090081FD46 /* M.mp3 in Resources */,
+				40F785602C9B4F570081FD46 /* I.mp3 in Resources */,
+				40F7855B2C9B4F570081FD46 /* J.mp3 in Resources */,
+				40F7856B2C9B5B4D0081FD46 /* Q.mp3 in Resources */,
+				40F7855A2C9B4F570081FD46 /* G.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		40F7852F2C9B4C5F0081FD46 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				40F7853B2C9B4C5F0081FD46 /* ViewController.swift in Sources */,
+				40F785372C9B4C5F0081FD46 /* AppDelegate.swift in Sources */,
+				40F785392C9B4C5F0081FD46 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		40F7853C2C9B4C5F0081FD46 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				40F7853D2C9B4C5F0081FD46 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		40F785412C9B4C610081FD46 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				40F785422C9B4C610081FD46 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		40F785452C9B4C610081FD46 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		40F785462C9B4C610081FD46 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		40F785482C9B4C610081FD46 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DBJA4C8J9Z;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Drum mixer/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.martinesite.Drum-mixer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		40F785492C9B4C610081FD46 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DBJA4C8J9Z;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Drum mixer/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.martinesite.Drum-mixer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		40F7852E2C9B4C5F0081FD46 /* Build configuration list for PBXProject "Drum mixer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				40F785452C9B4C610081FD46 /* Debug */,
+				40F785462C9B4C610081FD46 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		40F785472C9B4C610081FD46 /* Build configuration list for PBXNativeTarget "Drum mixer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				40F785482C9B4C610081FD46 /* Debug */,
+				40F785492C9B4C610081FD46 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 40F7852B2C9B4C5F0081FD46 /* Project object */;
+}
